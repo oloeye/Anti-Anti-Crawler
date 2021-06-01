@@ -10,4 +10,4 @@ gevent==1.2.2
 greenlet==0.4.12          # via gevent
 idna==2.6                 # via requests
 requests==2.18.4
-urllib3==1.24.2             # via requests
+urllib3==1.26.5             # via requests
